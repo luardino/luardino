@@ -39,7 +39,7 @@
  <a href="https://github.com/luardino">
      <img src="https://img.shields.io/badge/-Github-000?style=flat-circle&logo=Github&logoColor=white"/>
  </a>
-<img alt="illustration" align="right" width="300"  src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif"/>
+<img alt="illustration" align="right" width="300"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </p>
 <div>
 </div>
