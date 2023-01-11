@@ -39,11 +39,5 @@
  <a href="https://github.com/luardino">
      <img src="https://img.shields.io/badge/-Github-000?style=flat-circle&logo=Github&logoColor=white"/>
  </a>
- <h3>< align="center">Total profile visits</h3>
- <p align="center">
- <img align="center" src="https://profile-counter.glitch.me/luardino/count.svg"/>
- </p>
-<img alt="illustration" align="right" width="300"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-</p>
-<div>
 </div>
+</p>
