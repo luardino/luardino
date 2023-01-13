@@ -3,7 +3,11 @@
  <p>
 🔭 I am currently focused on web development i.e. FrontEnd & BackEnd I'm focused on learning more about Clean Architecture with TypeScript. Do you want to be connected to my next projects? "Follow me"<br><br>
  </p>
- 
+ <div>
+  <a href="https://github.com/luardino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luardino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luardino&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 ⚡ My Skills <br>
 
 <p>
