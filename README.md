@@ -1,8 +1,15 @@
-### Hi there 👋, I’m Luardino Jaime WebDev & DevOps 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c7832a&height=120&section=header"/>
+
+### Hi there 👋, I’m Luardino Jaime
 <br>
- <p>
-🔭 I am currently focused on web development i.e. FrontEnd & BackEnd I'm focused on learning more about Clean Architecture with TypeScript. Do you want to be connected to my next projects? "Follow me"<br><br>
- </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff6300&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luardino+Jaime;I'm+21+years+old;I'm+from+Angola;I+am+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+- 💻Desenvolvedor Front-End
+- 📚 Sempre em processo de estudo e adquirindo novos conhecimentos :)
+- 🎹 Apaixonado por música 
+- 💪 Gosto de desafios 
+
  <div>
   <a href="https://github.com/luardino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luardino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -38,3 +45,5 @@
  </a>
 </div>
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c7832a&height=120&section=footer"/>
