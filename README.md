@@ -1,13 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c7832a&height=120&section=header"/>
-
+<img width=100%  src="https://capsule-render.vercel.app/api?type=waving&color=c7832a&height=120&section=header"/>
 ### Hi there 👋, I’m Luardino Jaime
-<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff6300&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luardino+Jaime;I'm+21+years+old;I'm+from+Angola;I+am+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 💻Full Stack Developer
 - 📚 Always in the process of studying and acquiring new knowledge :)
-- 🎹 In love with music
 - 💪 I like challenges 
 
  <div>
