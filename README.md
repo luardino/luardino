@@ -1,17 +1,13 @@
 <img width=100%  src="https://capsule-render.vercel.app/api?type=waving&color=4c89f8&height=120&section=header"/>
-### Hi there 👋, I’m Luardino Jaime
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4c89f8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luardino+Jaime;I'm+21+years+old;I'm+from+Angola;I+am+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-- 💻Full Stack Developer
-- 📚 Always in the process of studying and acquiring new knowledge :)
-- 💪 I like challenges 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4c89f8&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luardino+Jaime;I'm+21+years+old;I'm+from+Angola;I+am+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
  <div>
   <a href="https://github.com/luardino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luardino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luardino&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luardino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luardino&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+  
 ⚡ My Skills <br>
 
 <p>
@@ -30,16 +26,7 @@
 </br> 
 </br>
 <p>
-📫 How to reach me: <br><br>
- <a href="mailto:luardino@icloud.com">
-     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-circle&logo=Gmail&logoColor=white"/>
- </a>
- <a href="https://www.linkedin.com/in/luardino/">
-     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white"/>
- </a>
- <a href="https://github.com/luardino">
-     <img src="https://img.shields.io/badge/-Github-000?style=flat-circle&logo=Github&logoColor=white"/>
- </a>
+
 </div>
 </p>
 
