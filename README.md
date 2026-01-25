@@ -1,7 +1,12 @@
 <img width=100%  src="https://capsule-render.vercel.app/api?type=waving&color=4c89f8&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4c89f8&size=25&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Luardino+Jaime;I+am+Software+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
-</br>
+    </br>
+<div style="display:flex; gap:3rem; " align=center>
+  <a href="https://github.com/luardino">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luardino&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+    </br>
 <p align=center>
 <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
